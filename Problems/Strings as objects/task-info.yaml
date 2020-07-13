@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val input = readLine()!!
+        // write code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6782
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6782">JetBrains
+    Academy</a></html>
+  time: Wed, 08 Jul 2020 21:46:05 UTC
+record: -1

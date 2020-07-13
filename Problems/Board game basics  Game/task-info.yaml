@@ -1,0 +1,19 @@
+type: code
+custom_name: 'Board game basics: Game'
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    object PlayingField {
+        object Size {
+            // TODO
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9370
+status: Failed
+feedback:
+  message: |
+    Failed test #3 of 3. Wrong answer
+  time: Sat, 11 Jul 2020 15:47:48 UTC
+record: -1

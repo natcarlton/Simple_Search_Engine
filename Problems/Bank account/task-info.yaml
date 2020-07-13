@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: // write the BankAccount class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6243
+status: Failed
+feedback:
+  message: "Compilation error\nmain.kt:5:5: error: primary constructor call expected\n\
+    \    constructor(deposited: Long, withdrawn: Long, balance: Long) {\n    ^\nmain.kt:17:19:\
+    \ error: none of the following functions can be called with the arguments supplied:\
+    \ \npublic constructor BankAccount() defined in BankAccount\npublic constructor\
+    \ BankAccount(deposited: Long, withdrawn: Long, balance: Long) defined in BankAccount\n\
+    \    val account = BankAccount(deposited, withdrawn)\n                  ^\n"
+  time: Fri, 10 Jul 2020 05:48:58 UTC
+record: -1
